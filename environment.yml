@@ -1,0 +1,13 @@
+name: amino_acid
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy=1.26.4
+  - pandas=2.2.2
+  - tensorflow=2.16.1
+  - joblib=1.4.2
+  - scikit-learn=1.2.2
+  - imbalanced-learn=0.12.3
+  - biopython=1.84
